@@ -4,17 +4,17 @@
 
 ---
 
-### 🧠 About Me
+### About Me
 I'm a **Computer Engineering student at ESPRIT School of Engineering**, passionate about creating efficient and scalable digital solutions.  
 I enjoy solving complex problems and building applications that combine strong backend logic with intuitive, modern user interfaces.  
 
 ---
 
-### ⚙️ Technical Skills
+### Technical Skills
 
 <div align="center">
 
-#### 🖥️ **Programming Languages**
+#### **Programming Languages**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -24,7 +24,7 @@ I enjoy solving complex problems and building applications that combine strong b
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-#### 🧩 **Frameworks & Libraries**
+#### **Frameworks & Libraries**
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -32,7 +32,7 @@ I enjoy solving complex problems and building applications that combine strong b
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
 
-#### 🗃️ **Databases, Search & Data Tools**
+#### **Databases, Search & Data Tools**
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -42,7 +42,7 @@ I enjoy solving complex problems and building applications that combine strong b
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
 
-#### 🧰 **Tools & Platforms**
+#### **Tools & Platforms**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -53,27 +53,27 @@ I enjoy solving complex problems and building applications that combine strong b
 
 ---
 
-### 💼 Professional Experience
+### Professional Experience
 
-**💻 Software Engineering Intern — SIGA**  
+**Software Engineering Intern — SIGA**  
 - Developed a **marketing campaign management web platform** using **Angular** and **FastAPI**.  
 - Designed and integrated **RESTful APIs** and reactive components.  
 - Implemented **client segmentation** based on behavioral and demographic data.  
 
-**📊 Data Engineering Intern — SIGA**  
+**Data Engineering Intern — SIGA**  
 - Leveraged **Elasticsearch** for scalable, high-performance data indexing and retrieval.  
 - Created **interactive Kibana dashboards** for real-time data visualization and analysis.  
 
-**⚙️ ERP Developer Intern — Le Pneumatique**  
+**ERP Developer Intern — Le Pneumatique**  
 - Designed and developed **custom Odoo modules** to optimize business operations.  
 - Streamlined internal workflows and provided training to end users.  
 
-**💬 Bilingual Customer Advisor — Concentrix**  
+**Bilingual Customer Advisor — Concentrix**  
 - Delivered professional customer support in English and French, improving client satisfaction and communication efficiency.  
 
 ---
 
-### 🚀 Notable Projects
+### Notable Projects
 
 #### **🗺️ Smart Campus Map** — *Latest Project*
 Full-featured Flutter application for intelligent campus navigation with real-time room availability and custom POI management.  
@@ -104,15 +104,6 @@ A web app for creating, managing, and analyzing marketing campaigns across clien
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaabiiz&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaabiiz&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
----
-
 ### 🌐 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmed-kaabi-5815b3240/" target="_blank">
@@ -128,6 +119,3 @@ A web app for creating, managing, and analyzing marketing campaigns across clien
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kaabiiz&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-</div>
